@@ -15,4 +15,6 @@ Issue#1 :Add one simple example of conditional variable
       this thread should set the condition on which the thread 1 is waiting for(Assuming the thread1 gets scheduled first)
       and should signal the the waiting thread.
     This is assumed ok if the thread signals but there is no one waiting to signaled.
-
+    
+    
+Issue#2 Add a example for producer and cosumer
